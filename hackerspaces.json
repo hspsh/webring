@@ -1,0 +1,31 @@
+{
+    "name": "Hackerspaces",
+    "description": "Polish hackerspaces webring.",
+    "sites": [
+        {
+            "name": "Hackerspace Pomorze",
+            "link": "https://hsp.sh",
+            "title": ""
+        },
+        {
+            "name": "Hackerspace Warszawa",
+            "link": "https://hackerspace.pl",
+            "title": ""
+        },
+        {
+            "name": "Hackerspace Kraków",
+            "link": "https://hackerspace-krk.pl/",
+            "title": "" 
+        },
+        {
+            "name": "Hackerspace Wrocław",
+            "link": "https://www.hswro.org/",
+            "title": ""    
+        },
+        {
+            "name": "Hackerspace Łódź",
+            "link": "https://lodz.hackerspace.pl/",
+            "title": ""    
+        }
+    ]
+}
