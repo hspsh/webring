@@ -1,0 +1,21 @@
+{
+    "name": "Hackerspace Pomerania Members Webring",
+    "description": "Check out the works of the members of our hackerspace!",
+    "sites": [
+        {
+            "name": "yasiu",
+            "link": "https://yasiu.pl",
+            "title": "Tinkerer obssesed with space 🚀"
+        },
+        {
+            "name": "not7cd",
+            "link": "https://not7cd.net",
+            "title": "Maker of stuff" 
+        },
+        {
+            "name": "cr1tbit",
+            "link": "https://vcc.earth",
+            "title": "Liquified cringe"    
+        }
+    ]
+}
